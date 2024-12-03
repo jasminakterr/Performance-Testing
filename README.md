@@ -15,12 +15,12 @@ Before running the performance test, ensure you have the following prerequisites
 
 Click =>Binaries  
 =>apache-jmeter-5.6.3.zip
-
+We can also use BlazeMeter and Lighthouse to generate JMX files for our performance tests.
 - **BlazeMeter**:
-We can also use BlazeMeter to generate JMX files for our performance tests. [BlazeMeter Chrome Extension](https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbohhpnfglgohlbhfongabi?hl=en)
+ [BlazeMeter Chrome Extension](https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbohhpnfglgohlbhfongabi?hl=en)
 
 - **Lighthouse**:
-We can also use Lighthouse to generate JMX files for our performance tests. [Lighthouse Chrome Extension](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
+[Lighthouse Chrome Extension](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 
 ## Prerequisites
 
