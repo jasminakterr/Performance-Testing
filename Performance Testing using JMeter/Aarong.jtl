@@ -1,0 +1,601 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1733223706137,24096,home,200,OK,Thread Group 1-53,text,true,,367940,495,100,100,https://www.aarong.com/,763,0,567
+1733223708531,25477,home,200,OK,Thread Group 1-77,text,true,,367938,495,100,100,https://www.aarong.com/,1740,0,1285
+1733223701611,33933,home,200,OK,Thread Group 1-8,text,true,,367938,495,100,100,https://www.aarong.com/,1705,0,1414
+1733223707132,29242,home,200,OK,Thread Group 1-63,text,true,,367940,495,100,100,https://www.aarong.com/,777,0,279
+1733223704849,31993,home,200,OK,Thread Group 1-40,text,true,,367938,495,100,100,https://www.aarong.com/,808,0,601
+1733223702418,35294,home,200,OK,Thread Group 1-16,text,true,,367938,495,100,100,https://www.aarong.com/,1513,0,816
+1733223708034,30557,home,200,OK,Thread Group 1-72,text,true,,367938,495,100,100,https://www.aarong.com/,694,0,283
+1733223704153,35312,home,200,OK,Thread Group 1-33,text,true,,367938,495,100,100,https://www.aarong.com/,1062,0,572
+1733223707734,32258,home,200,OK,Thread Group 1-69,text,true,,367938,495,100,100,https://www.aarong.com/,16589,0,16499
+1733223703227,38037,home,200,OK,Thread Group 1-24,text,true,,367938,495,100,100,https://www.aarong.com/,4197,0,985
+1733223708724,34013,home,200,OK,Thread Group 1-79,text,true,,367938,495,100,100,https://www.aarong.com/,744,0,278
+1733223703457,39877,home,200,OK,Thread Group 1-26,text,true,,367940,495,100,100,https://www.aarong.com/,689,0,278
+1733223705057,39101,home,200,OK,Thread Group 1-42,text,true,,367938,495,100,100,https://www.aarong.com/,3002,0,974
+1733223703553,40675,home,200,OK,Thread Group 1-27,text,true,,367938,495,100,100,https://www.aarong.com/,7738,0,5053
+1733223703952,40565,home,200,OK,Thread Group 1-31,text,true,,367938,495,100,100,https://www.aarong.com/,1195,0,683
+1733223703022,41559,home,200,OK,Thread Group 1-22,text,true,,367938,495,100,100,https://www.aarong.com/,943,0,282
+1733223706339,39598,home,200,OK,Thread Group 1-55,text,true,,367938,495,100,100,https://www.aarong.com/,3850,0,1372
+1733223707035,39330,home,200,OK,Thread Group 1-62,text,true,,367940,495,100,100,https://www.aarong.com/,5327,0,2475
+1733223705836,40569,home,200,OK,Thread Group 1-50,text,true,,367938,495,100,100,https://www.aarong.com/,2460,0,1604
+1733223708626,38258,home,200,OK,Thread Group 1-78,text,true,,367938,495,100,100,https://www.aarong.com/,2627,0,1550
+1733223709703,38528,home,200,OK,Thread Group 1-89,text,true,,367938,495,100,100,https://www.aarong.com/,3983,0,1472
+1733223705440,42814,home,200,OK,Thread Group 1-46,text,true,,367938,495,100,100,https://www.aarong.com/,1897,0,1593
+1733223704252,45108,home,200,OK,Thread Group 1-34,text,true,,367938,495,100,100,https://www.aarong.com/,1469,0,1270
+1733223704551,45090,home,200,OK,Thread Group 1-37,text,true,,367940,495,100,100,https://www.aarong.com/,1536,0,860
+1733223710596,39474,home,200,OK,Thread Group 1-98,text,true,,367938,495,100,100,https://www.aarong.com/,15599,0,15487
+1733223705145,45079,home,200,OK,Thread Group 1-43,text,true,,367938,495,100,100,https://www.aarong.com/,1820,0,1408
+1733223710100,40227,home,200,OK,Thread Group 1-93,text,true,,367938,495,100,100,https://www.aarong.com/,4348,0,2939
+1733223706534,44956,home,200,OK,Thread Group 1-57,text,true,,367938,495,100,100,https://www.aarong.com/,6621,0,6428
+1733223703123,48567,home,200,OK,Thread Group 1-23,text,true,,367938,495,100,100,https://www.aarong.com/,800,0,574
+1733223704948,46759,home,200,OK,Thread Group 1-41,text,true,,367938,495,100,100,https://www.aarong.com/,17429,0,15958
+1733223708336,44274,home,200,OK,Thread Group 1-75,text,true,,367940,495,100,100,https://www.aarong.com/,5616,0,5432
+1733223706634,46186,home,200,OK,Thread Group 1-58,text,true,,367940,495,100,100,https://www.aarong.com/,4915,0,1245
+1733223709505,43334,home,200,OK,Thread Group 1-87,text,true,,367939,495,100,100,https://www.aarong.com/,7155,0,3332
+1733223706832,46177,home,200,OK,Thread Group 1-60,text,true,,367938,495,100,100,https://www.aarong.com/,1524,0,859
+1733223701198,52238,home,200,OK,Thread Group 1-4,text,true,,367940,495,100,100,https://www.aarong.com/,7664,0,7233
+1733223708435,45871,home,200,OK,Thread Group 1-76,text,true,,367938,495,100,100,https://www.aarong.com/,1039,0,286
+1733223701107,53737,home,200,OK,Thread Group 1-3,text,true,,367938,495,100,100,https://www.aarong.com/,6085,0,3618
+1733223701299,53688,home,200,OK,Thread Group 1-5,text,true,,367940,495,100,100,https://www.aarong.com/,6717,0,4827
+1733223709416,45693,home,200,OK,Thread Group 1-86,text,true,,367938,495,100,100,https://www.aarong.com/,3846,0,2793
+1733223701696,53815,home,200,OK,Thread Group 1-9,text,true,,367938,495,100,100,https://www.aarong.com/,4111,0,1973
+1733223701796,54137,home,200,OK,Thread Group 1-10,text,true,,367938,495,100,100,https://www.aarong.com/,17161,0,16830
+1733223704649,51570,home,200,OK,Thread Group 1-38,text,true,,367938,495,100,100,https://www.aarong.com/,23920,0,20733
+1733223709020,47421,home,200,OK,Thread Group 1-82,text,true,,367940,495,100,100,https://www.aarong.com/,3739,0,2612
+1733223705638,51068,home,200,OK,Thread Group 1-48,text,true,,367938,495,100,100,https://www.aarong.com/,16817,0,16479
+1733223701039,56681,home,200,OK,Thread Group 1-2,text,true,,367940,495,100,100,https://www.aarong.com/,25571,0,23935
+1733223710498,49048,home,200,OK,Thread Group 1-97,text,true,,367940,495,100,100,https://www.aarong.com/,678,0,278
+1733223702720,58929,home,200,OK,Thread Group 1-19,text,true,,367938,495,100,100,https://www.aarong.com/,2067,0,1580
+1733223709609,52251,home,200,OK,Thread Group 1-88,text,true,,367938,495,100,100,https://www.aarong.com/,8320,0,1466
+1733223703657,58243,home,200,OK,Thread Group 1-28,text,true,,367940,495,100,100,https://www.aarong.com/,2605,0,1513
+1733223709315,52855,home,200,OK,Thread Group 1-85,text,true,,367938,495,100,100,https://www.aarong.com/,4201,0,1284
+1733223706933,55463,home,200,OK,Thread Group 1-61,text,true,,367938,495,100,100,https://www.aarong.com/,25043,0,20283
+1733223708135,54422,home,200,OK,Thread Group 1-73,text,true,,367940,495,100,100,https://www.aarong.com/,6595,0,1497
+1733223701515,62292,home,200,OK,Thread Group 1-7,text,true,,367938,495,100,100,https://www.aarong.com/,20690,0,16378
+1733223702313,61628,home,200,OK,Thread Group 1-15,text,true,,367940,495,100,100,https://www.aarong.com/,1116,0,615
+1733223701396,62758,home,200,OK,Thread Group 1-6,text,true,,367940,495,100,100,https://www.aarong.com/,6570,0,2093
+1733223709213,55814,home,200,OK,Thread Group 1-84,text,true,,367938,495,100,100,https://www.aarong.com/,1585,0,1286
+1733223703853,62775,home,200,OK,Thread Group 1-30,text,true,,367938,495,100,100,https://www.aarong.com/,17019,0,16646
+1733223702621,64350,home,200,OK,Thread Group 1-18,text,true,,367940,495,100,100,https://www.aarong.com/,7287,0,2004
+1733223709113,58294,home,200,OK,Thread Group 1-83,text,true,,367938,495,100,100,https://www.aarong.com/,17098,0,16521
+1733223705539,61926,home,200,OK,Thread Group 1-47,text,true,,367940,495,100,100,https://www.aarong.com/,13647,0,11524
+1733223707530,60004,home,200,OK,Thread Group 1-67,text,true,,367938,495,100,100,https://www.aarong.com/,1323,0,852
+1733223701039,66539,home,200,OK,Thread Group 1-1,text,true,,367938,495,100,100,https://www.aarong.com/,31826,0,28080
+1733223710795,56811,home,200,OK,Thread Group 1-100,text,true,,367938,495,100,100,https://www.aarong.com/,18914,0,15419
+1733223705241,62785,home,200,OK,Thread Group 1-44,text,true,,367940,495,100,100,https://www.aarong.com/,2937,0,2169
+1733223702118,68846,home,200,OK,Thread Group 1-13,text,true,,367940,495,100,100,https://www.aarong.com/,2653,0,1721
+1733223702936,69978,home,200,OK,Thread Group 1-21,text,true,,367938,495,100,100,https://www.aarong.com/,2042,0,1582
+1733223705350,67956,home,200,OK,Thread Group 1-45,text,true,,367940,495,100,100,https://www.aarong.com/,29947,0,16541
+1733223710197,64012,home,200,OK,Thread Group 1-94,text,true,,367940,495,100,100,https://www.aarong.com/,3954,0,930
+1733223706735,67487,home,200,OK,Thread Group 1-59,text,true,,367938,495,100,100,https://www.aarong.com/,16753,0,12438
+1733223707230,67321,home,200,OK,Thread Group 1-64,text,true,,367938,495,100,100,https://www.aarong.com/,1963,0,1357
+1733223708916,66774,home,200,OK,Thread Group 1-81,text,true,,367938,495,100,100,https://www.aarong.com/,20934,0,18227
+1733223701923,74807,home,200,OK,Thread Group 1-11,text,true,,367940,495,100,100,https://www.aarong.com/,16149,0,15866
+1733223702822,73964,home,200,OK,Thread Group 1-20,text,true,,367940,495,100,100,https://www.aarong.com/,9311,0,1958
+1733223707934,70506,home,200,OK,Thread Group 1-71,text,true,,367940,495,100,100,https://www.aarong.com/,10068,0,3065
+1733223705749,72941,home,200,OK,Thread Group 1-49,text,true,,367940,495,100,100,https://www.aarong.com/,23618,0,20348
+1733223708821,70283,home,200,OK,Thread Group 1-80,text,true,,367940,495,100,100,https://www.aarong.com/,678,0,281
+1733223707335,74687,home,200,OK,Thread Group 1-65,text,true,,367940,495,100,100,https://www.aarong.com/,2346,0,1595
+1733223730241,53082,women,200,OK,Thread Group 1-53,text,true,,674455,500,100,100,https://www.aarong.com/women,1923,0,0
+1733223707434,77363,home,200,OK,Thread Group 1-66,text,true,,367938,495,100,100,https://www.aarong.com/,5775,0,1543
+1733223704455,80510,home,200,OK,Thread Group 1-36,text,true,,367938,495,100,100,https://www.aarong.com/,1897,0,1584
+1733223707832,77449,home,200,OK,Thread Group 1-70,text,true,,367938,495,100,100,https://www.aarong.com/,21161,0,20426
+1733223735546,51581,women,200,OK,Thread Group 1-8,text,true,,674452,500,100,100,https://www.aarong.com/women,963,0,0
+1733223710001,77597,home,200,OK,Thread Group 1-92,text,true,,367938,495,100,100,https://www.aarong.com/,26406,0,20465
+1733223704350,85893,home,200,OK,Thread Group 1-35,text,true,,367940,495,100,100,https://www.aarong.com/,981,0,669
+1733223702533,90226,home,200,OK,Thread Group 1-17,text,true,,367938,495,100,100,https://www.aarong.com/,20495,0,20115
+1733223706041,87808,home,200,OK,Thread Group 1-52,text,true,,367938,495,100,100,https://www.aarong.com/,585,0,281
+1733223707638,88718,home,200,OK,Thread Group 1-68,text,true,,367940,495,100,100,https://www.aarong.com/,17185,0,16364
+1733223748233,48317,women,200,OK,Thread Group 1-89,text,true,,674453,500,100,100,https://www.aarong.com/women,638,0,0
+1733223709804,87800,home,200,OK,Thread Group 1-90,text,true,,367940,495,100,100,https://www.aarong.com/,19190,0,17604
+1733223709901,88004,home,200,OK,Thread Group 1-91,text,true,,367938,495,100,100,https://www.aarong.com/,9520,0,5759
+1733223710298,88619,home,200,OK,Thread Group 1-95,text,true,,367940,495,100,100,https://www.aarong.com/,2287,0,1989
+1733223778691,21027,women,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to www.aarong.com:443 [www.aarong.com/199.232.45.124] failed: Connection timed out: connect,Thread Group 1-49,text,false,,2756,0,100,100,https://www.aarong.com/women,0,0,21027
+1733223744160,57372,women,200,OK,Thread Group 1-42,text,true,,674453,500,100,100,https://www.aarong.com/women,3505,0,0
+1733223750329,51894,women,200,OK,Thread Group 1-93,text,true,,674453,500,100,100,https://www.aarong.com/women,1620,0,0
+1733223744229,58617,women,200,OK,Thread Group 1-27,text,true,,674453,500,100,100,https://www.aarong.com/women,1352,0,0
+1733223703757,100274,home,200,OK,Thread Group 1-29,text,true,,367938,495,100,100,https://www.aarong.com/,29431,0,15897
+1733223752840,51816,women,200,OK,Thread Group 1-87,text,true,,674453,500,100,100,https://www.aarong.com/women,2129,0,0
+1733223710696,95500,home,200,OK,Thread Group 1-99,text,true,,367938,495,100,100,https://www.aarong.com/,18812,0,18034
+1733223734010,72454,women,200,OK,Thread Group 1-77,text,true,,674452,500,100,100,https://www.aarong.com/women,1356,0,0
+1733223705937,101176,home,200,OK,Thread Group 1-51,text,true,,367938,495,100,100,https://www.aarong.com/,40697,0,38977
+1733223748255,59626,women,200,OK,Thread Group 1-46,text,true,,674453,500,100,100,https://www.aarong.com/women,2539,0,0
+1733223751708,56801,women,200,OK,Thread Group 1-41,text,true,,674453,500,100,100,https://www.aarong.com/women,3509,0,0
+1733223746406,62985,women,200,OK,Thread Group 1-50,text,true,,674453,500,100,100,https://www.aarong.com/women,3083,0,0
+1733223744582,64991,women,200,OK,Thread Group 1-22,text,true,,674453,500,100,100,https://www.aarong.com/women,1198,0,0
+1733223738593,71548,women,200,OK,Thread Group 1-72,text,true,,674452,500,100,100,https://www.aarong.com/women,1613,0,0
+1733223749362,61359,women,200,OK,Thread Group 1-34,text,true,,674453,500,100,100,https://www.aarong.com/women,1861,0,0
+1733223704053,106691,home,200,OK,Thread Group 1-32,text,true,,367938,495,100,100,https://www.aarong.com/,1168,0,585
+1733223756443,54581,women,200,OK,Thread Group 1-82,text,true,,674455,500,100,100,https://www.aarong.com/women,1998,0,0
+1733223708236,103003,home,200,OK,Thread Group 1-74,text,true,,367938,495,100,100,https://www.aarong.com/,2026,0,929
+1733223742739,68735,women,200,OK,Thread Group 1-79,text,true,,674453,500,100,100,https://www.aarong.com/women,1336,0,0
+1733223754308,58602,women,200,OK,Thread Group 1-76,text,true,,674453,500,100,100,https://www.aarong.com/women,822,0,0
+1733223757721,55407,women,200,OK,Thread Group 1-2,text,true,,674455,500,100,100,https://www.aarong.com/women,891,0,0
+1733223763941,49663,women,200,OK,Thread Group 1-15,text,true,,674455,500,100,100,https://www.aarong.com/women,793,0,487
+1733223754846,58961,women,200,OK,Thread Group 1-3,text,true,,674453,500,100,100,https://www.aarong.com/women,1206,0,0
+1733223736843,78199,women,200,OK,Thread Group 1-40,text,true,,674452,500,100,100,https://www.aarong.com/women,7901,0,0
+1733223776731,39178,women,200,OK,Thread Group 1-11,text,true,,674453,500,100,100,https://www.aarong.com/women,375,0,184
+1733223749642,66806,women,200,OK,Thread Group 1-37,text,true,,674455,500,100,100,https://www.aarong.com/women,2263,0,0
+1733223774211,42800,women,200,OK,Thread Group 1-94,text,true,,674453,500,100,100,https://www.aarong.com/women,807,0,183
+1733223704752,112676,home,200,OK,Thread Group 1-39,text,true,,367938,495,100,100,https://www.aarong.com/,5777,0,5442
+1733223762396,55800,women,200,OK,Thread Group 1-61,text,true,,674453,500,100,100,https://www.aarong.com/women,1995,0,0
+1733223752611,66184,women,200,OK,Thread Group 1-75,text,true,,674455,500,100,100,https://www.aarong.com/women,4285,0,0
+1733223739466,79538,women,200,OK,Thread Group 1-33,text,true,,674452,500,100,100,https://www.aarong.com/women,2601,0,0
+1733223762171,56921,women,200,OK,Thread Group 1-85,text,true,,674453,500,100,100,https://www.aarong.com/women,3480,0,0
+1733223755512,63748,women,200,OK,Thread Group 1-9,text,true,,674453,500,100,100,https://www.aarong.com/women,3356,0,0
+1733223778441,40839,women,200,OK,Thread Group 1-71,text,true,,674455,500,100,100,https://www.aarong.com/women,468,0,184
+1733223755934,63621,women,200,OK,Thread Group 1-10,text,true,,674453,500,100,100,https://www.aarong.com/women,4593,0,0
+1733223759547,60027,women,200,OK,Thread Group 1-97,text,true,,674455,500,100,100,https://www.aarong.com/women,1884,0,0
+1733223762557,57576,women,200,OK,Thread Group 1-73,text,true,,674455,500,100,100,https://www.aarong.com/women,4540,0,0
+1733223753010,67325,women,200,OK,Thread Group 1-60,text,true,,674453,500,100,100,https://www.aarong.com/women,1406,0,0
+1733223752821,67515,women,200,OK,Thread Group 1-58,text,true,,674455,500,100,100,https://www.aarong.com/women,953,0,0
+1733223761902,58540,women,200,OK,Thread Group 1-28,text,true,,674455,500,100,100,https://www.aarong.com/women,3060,0,0
+1733223706238,114356,home,200,OK,Thread Group 1-54,text,true,,367938,495,100,100,https://www.aarong.com/,8428,0,1238
+1733223701996,118710,home,200,OK,Thread Group 1-12,text,true,,367938,495,100,100,https://www.aarong.com/,2953,0,1632
+1733223774223,46661,women,200,OK,Thread Group 1-59,text,true,,674453,500,100,100,https://www.aarong.com/women,833,0,185
+1733223739993,80939,women,200,OK,Thread Group 1-69,text,true,,674452,500,100,100,https://www.aarong.com/women,1220,0,0
+1733223746886,75185,women,200,OK,Thread Group 1-78,text,true,,674453,500,100,100,https://www.aarong.com/women,1511,0,0
+1733223763807,58278,women,200,OK,Thread Group 1-7,text,true,,674453,500,100,100,https://www.aarong.com/women,4720,0,798
+1733223751691,71155,women,200,OK,Thread Group 1-23,text,true,,674453,500,100,100,https://www.aarong.com/women,2207,0,0
+1733223761861,61297,women,200,OK,Thread Group 1-88,text,true,,674453,500,100,100,https://www.aarong.com/women,1428,0,0
+1733223766971,56283,women,200,OK,Thread Group 1-18,text,true,,674455,500,100,100,https://www.aarong.com/women,508,0,185
+1733223782024,41450,women,200,OK,Thread Group 1-65,text,true,,674453,500,100,100,https://www.aarong.com/women,383,0,182
+1733223767578,55959,women,200,OK,Thread Group 1-1,text,true,,674453,500,100,100,https://www.aarong.com/women,4739,0,1439
+1733223761649,62673,women,200,OK,Thread Group 1-19,text,true,,674453,500,100,100,https://www.aarong.com/women,6715,0,0
+1733223746366,78992,women,200,OK,Thread Group 1-62,text,true,,674455,500,100,100,https://www.aarong.com/women,1031,0,0
+1733223798417,27189,taaga,200,OK,Thread Group 1-8,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,836,0,186
+1733223756220,70354,women,200,OK,Thread Group 1-38,text,true,,674453,500,100,100,https://www.aarong.com/women,1725,0,0
+1733223774552,52318,women,200,OK,Thread Group 1-64,text,true,,674453,500,100,100,https://www.aarong.com/women,491,0,187
+1733223764155,62755,women,200,OK,Thread Group 1-6,text,true,,674453,500,100,100,https://www.aarong.com/women,474,0,187
+1733223773306,54283,women,200,OK,Thread Group 1-45,text,true,,674453,500,100,100,https://www.aarong.com/women,15620,0,15359
+1733223753436,74439,women,200,OK,Thread Group 1-4,text,true,,674455,500,100,100,https://www.aarong.com/women,1120,0,0
+1733223776787,51936,women,200,OK,Thread Group 1-20,text,true,,674453,500,100,100,https://www.aarong.com/women,780,0,480
+1733223767534,61324,women,200,OK,Thread Group 1-67,text,true,,674455,500,100,100,https://www.aarong.com/women,879,0,489
+1733223772914,56446,women,200,OK,Thread Group 1-21,text,true,,674455,500,100,100,https://www.aarong.com/women,381,0,184
+1733223775692,53941,women,200,OK,Thread Group 1-81,text,true,,674455,500,100,100,https://www.aarong.com/women,782,0,486
+1733223756707,73247,women,200,OK,Thread Group 1-48,text,true,,674453,500,100,100,https://www.aarong.com/women,3015,0,0
+1733223736375,94714,women,200,OK,Thread Group 1-63,text,true,,674454,500,100,100,https://www.aarong.com/women,32229,0,0
+1733223790245,41923,women,200,OK,Thread Group 1-35,text,true,,674453,500,100,100,https://www.aarong.com/women,591,0,264
+1733223785283,51497,women,200,OK,Thread Group 1-70,text,true,,674453,500,100,100,https://www.aarong.com/women,538,0,270
+1733223743335,93496,women,200,OK,Thread Group 1-26,text,true,,674455,500,100,100,https://www.aarong.com/women,1661,0,0
+1733223767408,69638,women,200,OK,Thread Group 1-83,text,true,,674453,500,100,100,https://www.aarong.com/women,3386,0,0
+1733223744518,92654,women,200,OK,Thread Group 1-31,text,true,,674453,500,100,100,https://www.aarong.com/women,5136,0,0
+1733223706437,131176,home,200,OK,Thread Group 1-56,text,true,,367940,495,100,100,https://www.aarong.com/,40981,0,40137
+1733223819170,19655,taaga,200,OK,Thread Group 1-46,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,1736,0,1195
+1733223741266,98945,women,200,OK,Thread Group 1-24,text,true,,674452,500,100,100,https://www.aarong.com/women,2916,0,0
+1733223811008,29623,taaga,200,OK,Thread Group 1-49,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,571,0,477
+1733223819799,21275,taaga,200,OK,Thread Group 1-41,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,484,0,186
+1733223767607,74341,women,200,OK,Thread Group 1-100,text,true,,674453,500,100,100,https://www.aarong.com/women,3958,0,0
+1733223766628,75996,women,200,OK,Thread Group 1-30,text,true,,674453,500,100,100,https://www.aarong.com/women,586,0,186
+1733223793850,48873,women,200,OK,Thread Group 1-52,text,true,,674454,500,100,100,https://www.aarong.com/women,6766,0,778
+1733223779106,64924,women,200,OK,Thread Group 1-80,text,true,,674455,500,100,100,https://www.aarong.com/women,2694,0,478
+1733223798919,45699,women,200,OK,Thread Group 1-95,text,true,,674455,500,100,100,https://www.aarong.com/women,15514,0,15218
+1733223810745,33889,women,200,OK,Thread Group 1-32,text,true,,674453,500,100,100,https://www.aarong.com/women,551,0,180
+1733223812821,32496,taaga,200,OK,Thread Group 1-42,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,478,0,183
+1733223710401,135040,home,200,OK,Thread Group 1-96,text,true,,367938,495,100,100,https://www.aarong.com/,62144,0,49537
+1733223767465,77997,women,200,OK,Thread Group 1-47,text,true,,674453,500,100,100,https://www.aarong.com/women,11508,0,1430
+1733223826334,19169,taaga,200,OK,Thread Group 1-40,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,467,0,184
+1733223787601,58199,women,200,OK,Thread Group 1-92,text,true,,674455,500,100,100,https://www.aarong.com/women,593,0,537
+1733223820864,25377,taaga,200,OK,Thread Group 1-22,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,478,0,191
+1733223807113,39554,women,200,OK,Thread Group 1-51,text,true,,674453,500,100,100,https://www.aarong.com/women,858,0,482
+1733223750075,97139,women,200,OK,Thread Group 1-98,text,true,,674453,500,100,100,https://www.aarong.com/women,2775,0,0
+1733223794614,53121,taaga,200,OK,Thread Group 1-53,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,16742,0,16283
+1733223804031,44359,women,200,OK,Thread Group 1-29,text,true,,674453,500,100,100,https://www.aarong.com/women,1762,0,792
+1733223833374,15479,taaga,200,OK,Thread Group 1-7,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,1613,0,1225
+1733223830549,19334,taaga,200,OK,Thread Group 1-9,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,385,0,186
+1733223830863,19119,taaga,200,OK,Thread Group 1-97,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,649,0,190
+1733223765028,85306,women,200,OK,Thread Group 1-84,text,true,,674453,500,100,100,https://www.aarong.com/women,2241,0,0
+1733223822012,28449,taaga,200,OK,Thread Group 1-34,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,1135,0,491
+1733223831625,19065,taaga,200,OK,Thread Group 1-58,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,411,0,186
+1733223817754,33263,taaga,200,OK,Thread Group 1-77,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,667,0,179
+1733223827737,23332,taaga,200,OK,Thread Group 1-37,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,392,0,186
+1733223825097,26541,taaga,200,OK,Thread Group 1-3,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,640,0,186
+1733223813512,38530,taaga,200,OK,Thread Group 1-93,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,1404,0,1191
+1733223797907,54301,women,200,OK,Thread Group 1-91,text,true,,674454,500,100,100,https://www.aarong.com/women,976,0,484
+1733223814137,38190,taaga,200,OK,Thread Group 1-27,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,864,0,493
+1733223830293,22184,taaga,200,OK,Thread Group 1-33,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,387,0,185
+1733223824200,28282,taaga,200,OK,Thread Group 1-76,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,672,0,479
+1733223822765,29734,taaga,200,OK,Thread Group 1-79,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,727,0,180
+1733223822316,30630,taaga,200,OK,Thread Group 1-82,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,390,0,190
+1733223797606,55344,women,200,OK,Thread Group 1-90,text,true,,674453,500,100,100,https://www.aarong.com/women,15635,0,15223
+1733223835613,18073,taaga,200,OK,Thread Group 1-19,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,1844,0,1196
+1733223824418,29623,taaga,200,OK,Thread Group 1-2,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,1491,0,1189
+1733223830083,24259,taaga,200,OK,Thread Group 1-75,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,552,0,176
+1733223751491,103226,women,200,OK,Thread Group 1-57,text,true,,674453,500,100,100,https://www.aarong.com/women,1972,0,0
+1733223815946,39741,taaga,200,OK,Thread Group 1-87,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,468,0,184
+1733223832223,24099,taaga,200,OK,Thread Group 1-69,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,1477,0,1185
+1733223784799,71563,women,200,OK,Thread Group 1-66,text,true,,674452,500,100,100,https://www.aarong.com/women,15456,0,15246
+1733223820681,35750,taaga,200,OK,Thread Group 1-50,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,2315,0,776
+1733223830381,26503,taaga,200,OK,Thread Group 1-85,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,2322,0,2222
+1733223834829,22289,taaga,200,OK,Thread Group 1-1,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,451,0,185
+1733223806197,51155,women,200,OK,Thread Group 1-99,text,true,,674455,500,100,100,https://www.aarong.com/women,853,0,188
+1733223811240,46174,women,200,OK,Thread Group 1-74,text,true,,674453,500,100,100,https://www.aarong.com/women,660,0,185
+1733223830843,26584,taaga,200,OK,Thread Group 1-10,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,691,0,479
+1733223827198,30497,taaga,200,OK,Thread Group 1-11,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,766,0,0
+1733223770964,86802,women,200,OK,Thread Group 1-13,text,true,,674453,500,100,100,https://www.aarong.com/women,25092,0,15184
+1733223833360,24633,taaga,200,OK,Thread Group 1-78,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,279,0,185
+1733223768027,90165,women,200,OK,Thread Group 1-44,text,true,,674453,500,100,100,https://www.aarong.com/women,1951,0,783
+1733223821433,36879,taaga,200,OK,Thread Group 1-72,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,386,0,186
+1733223829485,28921,taaga,200,OK,Thread Group 1-61,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,576,0,486
+1733223796357,62165,women,200,OK,Thread Group 1-68,text,true,,674452,500,100,100,https://www.aarong.com/women,940,0,473
+1733223834136,24495,taaga,200,OK,Thread Group 1-23,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,378,0,183
+1733223834545,24500,taaga,200,OK,Thread Group 1-18,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,857,0,485
+1733223838159,21022,taaga,200,OK,Thread Group 1-64,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,637,0,186
+1733223836647,22886,taaga,200,OK,Thread Group 1-62,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,465,0,185
+1733223737713,121878,women,200,OK,Thread Group 1-16,text,true,,674452,500,100,100,https://www.aarong.com/women,1848,0,0
+1733223817429,42258,women,200,OK,Thread Group 1-39,text,true,,674453,500,100,100,https://www.aarong.com/women,822,0,186
+1733223848069,12110,taaga,200,OK,Thread Group 1-70,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,406,0,186
+1733223840923,19511,taaga,200,OK,Thread Group 1-81,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,672,0,485
+1733223828301,32159,taaga,200,OK,Thread Group 1-94,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,1117,0,0
+1733223820594,40061,women,200,OK,Thread Group 1-54,text,true,,674453,500,100,100,https://www.aarong.com/women,388,0,184
+1733223840651,20114,taaga,200,OK,Thread Group 1-21,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,783,0,482
+1733223838879,22217,taaga,200,OK,Thread Group 1-45,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,1720,0,1190
+1733223831426,29909,taaga,200,OK,Thread Group 1-73,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,395,0,177
+1733223839167,22342,taaga,200,OK,Thread Group 1-4,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,638,0,184
+1733223820708,41191,women,200,OK,Thread Group 1-12,text,true,,674455,500,100,100,https://www.aarong.com/women,3291,0,2229
+1733223841244,20909,taaga,200,OK,Thread Group 1-48,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,774,0,492
+1733223837864,25057,taaga,200,OK,Thread Group 1-38,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,671,0,185
+1733223832174,31179,taaga,200,OK,Thread Group 1-59,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,4182,0,0
+1733223831625,31824,taaga,200,OK,Thread Group 1-60,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,5198,0,5006
+1733223750225,113244,women,200,OK,Thread Group 1-43,text,true,,674453,500,100,100,https://www.aarong.com/women,3615,0,0
+1733223842379,21549,taaga,200,OK,Thread Group 1-63,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,1178,0,770
+1733223784970,79279,women,200,OK,Thread Group 1-36,text,true,,674453,500,100,100,https://www.aarong.com/women,1665,0,1131
+1733223824895,40062,taaga,200,OK,Thread Group 1-15,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,17040,0,15799
+1733223834764,30437,taaga,200,OK,Thread Group 1-65,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,2563,0,0
+1733223853531,11835,product,200,OK,Thread Group 1-8,text,true,,321454,554,100,100,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,675,0,0
+1733223837613,27840,women,200,OK,Thread Group 1-56,text,true,,674455,500,100,100,https://www.aarong.com/women,726,0,199
+1733223848121,17481,taaga,200,OK,Thread Group 1-26,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,550,0,184
+1733223834448,31247,taaga,200,OK,Thread Group 1-88,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,20637,0,476
+1733223848336,17653,taaga,200,OK,Thread Group 1-83,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,1574,0,1187
+1733223854014,12149,taaga,200,OK,Thread Group 1-52,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,685,0,475
+1733223755111,111115,women,200,OK,Thread Group 1-86,text,true,,674453,500,100,100,https://www.aarong.com/women,8743,0,0
+1733223840148,26357,taaga,200,OK,Thread Group 1-67,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,787,0,480
+1733223830569,35985,taaga,200,OK,Thread Group 1-71,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,1024,0,0
+1733223831731,34862,taaga,200,OK,Thread Group 1-28,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,16737,0,16245
+1733223851502,15219,taaga,200,OK,Thread Group 1-24,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,778,0,474
+1733223843458,23328,taaga,200,OK,Thread Group 1-35,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,2003,0,0
+1733223855319,11874,taaga,200,OK,Thread Group 1-80,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,578,0,186
+1733223845442,22283,women,200,OK,Thread Group 1-96,text,true,,674453,500,100,100,https://www.aarong.com/women,576,0,186
+1733223853241,14907,taaga,200,OK,Thread Group 1-100,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,574,0,184
+1733223858503,9653,taaga,200,OK,Thread Group 1-98,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,608,0,190
+1733223853914,14497,taaga,200,OK,Thread Group 1-30,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,547,0,184
+1733223856752,11734,taaga,200,OK,Thread Group 1-47,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,684,0,485
+1733223855909,12748,taaga,200,OK,Thread Group 1-95,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,676,0,0
+1733223861628,7533,taaga,200,OK,Thread Group 1-84,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,369,0,180
+1733223857090,12573,taaga,200,OK,Thread Group 1-92,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,1388,0,1193
+1733223855924,13803,taaga,200,OK,Thread Group 1-32,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,1207,0,0
+1733223807838,62037,taaga,200,OK,Thread Group 1-89,text,true,,498704,506,100,100,https://www.aarong.com/brand/taaga,786,0,481
+1733223857957,12251,taaga,200,OK,Thread Group 1-51,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,736,0,0
+1733223867651,2577,taaga,200,OK,Thread Group 1-66,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,468,0,173
+1733223840012,30579,taaga,200,OK,Thread Group 1-20,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,481,0,187
+1733223863500,8335,taaga,200,OK,Thread Group 1-91,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,389,0,176
+1733223848462,23539,taaga,200,OK,Thread Group 1-31,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,15395,0,15206
+1733223864239,7773,taaga,200,OK,Thread Group 1-90,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,502,0,183
+1733223859681,12597,taaga,200,OK,Thread Group 1-29,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,589,0,0
+1733223792761,79988,women,200,OK,Thread Group 1-17,text,true,,674452,500,100,100,https://www.aarong.com/women,839,0,184
+1733223869482,3520,taaga,200,OK,Thread Group 1-44,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,382,0,179
+1733223866748,6255,product,200,OK,Thread Group 1-46,text,true,,321454,554,100,100,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,381,0,0
+1733223838202,34879,taaga,200,OK,Thread Group 1-6,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,488,0,184
+1733223870880,2415,taaga,200,OK,Thread Group 1-16,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,275,0,185
+1733223868998,4513,product,200,OK,Thread Group 1-41,text,true,,321454,554,100,100,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,806,0,0
+1733223869812,4159,taaga,200,OK,Thread Group 1-68,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,522,0,178
+1733223869056,5029,taaga,200,OK,Thread Group 1-13,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,278,0,184
+1733223754988,119122,women,200,OK,Thread Group 1-5,text,true,,674455,500,100,100,https://www.aarong.com/women,3000,0,0
+1733223866005,8145,taaga,200,OK,Thread Group 1-57,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,683,0,479
+1733223868554,5835,product,200,OK,Thread Group 1-49,text,true,,321454,554,100,100,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,505,0,0
+1733223868643,5904,taaga,200,OK,Thread Group 1-99,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,379,0,184
+1733223873241,1352,product,200,OK,Thread Group 1-42,text,true,,321454,554,100,100,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,353,0,166
+1733223874757,1902,taaga,200,OK,Thread Group 1-43,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,254,0,155
+1733223871944,4931,taaga,200,OK,Thread Group 1-54,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,419,0,0
+1733223870978,6076,taaga,200,OK,Thread Group 1-39,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,315,0,0
+1733223868704,8445,taaga,200,OK,Thread Group 1-74,text,true,,498703,506,100,100,https://www.aarong.com/brand/taaga,969,0,0
+1733223875538,1696,taaga,200,OK,Thread Group 1-36,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,259,0,181
+1733223875658,1801,product,200,OK,Thread Group 1-53,text,true,,321454,554,100,100,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,637,0,480
+1733223873427,4098,product,200,OK,Thread Group 1-40,text,true,,321454,554,100,100,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,518,0,0
+1733223874165,4012,product,200,OK,Thread Group 1-22,text,true,,321456,554,100,100,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,471,0,0
+1733223873193,5167,taaga,200,OK,Thread Group 1-12,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,386,0,0
+1733223877515,932,taaga,200,OK,Thread Group 1-86,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,166,0,114
+1733223878943,760,product,200,OK,Thread Group 1-77,text,true,,321454,554,100,100,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,178,0,118
+1733223876778,3414,product,200,OK,Thread Group 1-7,text,true,,321456,554,100,100,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,610,0,0
+1733223877808,3584,product,200,OK,Thread Group 1-9,text,true,,321454,554,100,100,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,647,0,0
+1733223876741,4990,taaga,200,OK,Thread Group 1-56,text,true,,498705,506,100,100,https://www.aarong.com/brand/taaga,377,0,0
+1733223879966,1989,product,200,OK,Thread Group 1-93,text,true,,321454,554,100,100,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,519,0,130
+1733223702204,180109,home,200,OK,Thread Group 1-14,text,true,,367938,495,100,100,https://www.aarong.com/,1340,0,975
+1733223878384,4050,product,200,OK,Thread Group 1-34,text,true,,321454,554,100,100,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,418,0,0
+1733223880251,2301,product,200,OK,Thread Group 1-27,text,true,,321454,554,100,100,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,1468,0,1178
+1733223881091,2558,cart,200,OK,Thread Group 1-8,text,true,,282104,509,100,100,https://www.aarong.com/checkout/cart/,1147,0,153
+1733223689062,127096,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-8,,true,,2144651,2564,100,100,null,5326,67493,1753
+1733223877907,5831,product,200,OK,Thread Group 1-97,text,true,,321454,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,493,0,0
+1733223878994,5291,product,200,OK,Thread Group 1-37,text,true,,321454,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,1186,0,0
+1733223878616,5740,product,200,OK,Thread Group 1-58,text,true,,321456,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,355,0,0
+1733223883611,1082,product,200,OK,Thread Group 1-87,text,true,,321454,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,367,0,168
+1733223884355,1454,product,200,OK,Thread Group 1-50,text,true,,321454,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,478,0,174
+1733223881966,3995,product,200,OK,Thread Group 1-2,text,true,,321454,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,519,0,0
+1733223880403,5616,product,200,OK,Thread Group 1-33,text,true,,321454,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,472,0,0
+1733223879563,6684,product,200,OK,Thread Group 1-3,text,true,,321454,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,369,0,0
+1733223880408,6790,product,200,OK,Thread Group 1-76,text,true,,321454,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,715,0,0
+1733223885619,1782,product,200,OK,Thread Group 1-11,text,true,,321454,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,388,0,184
+1733223886236,1297,product,200,OK,Thread Group 1-72,text,true,,321454,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,476,0,180
+1733223880424,7489,product,200,OK,Thread Group 1-79,text,true,,321454,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,575,0,0
+1733223880870,7393,product,200,OK,Thread Group 1-82,text,true,,321454,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,767,0,0
+1733223882314,6018,women,200,OK,Thread Group 1-14,text,true,,674455,500,99,99,https://www.aarong.com/women,486,0,187
+1733223881612,6874,product,200,OK,Thread Group 1-19,text,true,,321454,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,861,0,0
+1733223879015,9512,taaga,200,OK,Thread Group 1-96,text,true,,498703,506,99,99,https://www.aarong.com/brand/taaga,802,0,0
+1733223882267,6384,product,200,OK,Thread Group 1-75,text,true,,321456,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,1081,0,0
+1733223885401,3696,taaga,200,OK,Thread Group 1-5,text,true,,498705,506,99,99,https://www.aarong.com/brand/taaga,381,0,181
+1733223888384,1258,product,200,OK,Thread Group 1-94,text,true,,321454,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,272,0,182
+1733223885918,4542,product,200,OK,Thread Group 1-78,text,true,,321454,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,386,0,0
+1733223884809,5673,product,200,OK,Thread Group 1-85,text,true,,321456,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,528,0,0
+1733223884246,6427,product,200,OK,Thread Group 1-69,text,true,,321454,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,613,0,0
+1733223884038,7043,taaga,200,OK,Thread Group 1-17,text,true,,498705,506,99,99,https://www.aarong.com/brand/taaga,1381,0,1176
+1733223886331,4868,product,200,OK,Thread Group 1-61,text,true,,321454,554,99,99,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,544,0,0
+1733223888730,2487,cart,200,OK,Thread Group 1-46,text,true,,282119,509,99,99,https://www.aarong.com/checkout/cart/,1422,0,185
+1733223692903,130837,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-46,,true,,2144667,2564,99,99,null,7975,67478,2973
+1733223887106,4130,product,200,OK,Thread Group 1-64,text,true,,321456,554,98,98,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,533,0,0
+1733223886554,4906,product,200,OK,Thread Group 1-23,text,true,,321454,554,98,98,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,863,0,0
+1733223885351,6219,product,200,OK,Thread Group 1-10,text,true,,321454,554,98,98,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,1309,0,0
+1733223886968,4659,product,200,OK,Thread Group 1-18,text,true,,321456,554,98,98,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,529,0,0
+1733223885041,7053,product,200,OK,Thread Group 1-1,text,true,,321454,554,98,98,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,943,0,0
+1733223887457,5205,product,200,OK,Thread Group 1-62,text,true,,321454,554,98,98,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,548,0,0
+1733223891277,1504,product,200,OK,Thread Group 1-59,text,true,,321456,554,98,98,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,232,0,134
+1733223888102,4867,product,200,OK,Thread Group 1-70,text,true,,321454,554,98,98,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,342,0,0
+1733223890319,3029,cart,200,OK,Thread Group 1-42,text,true,,282104,509,98,98,https://www.aarong.com/checkout/cart/,1340,0,0
+1733223692517,133350,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-42,,true,,2144654,2564,98,98,null,8678,67481,1323
+1733223890114,3239,cart,200,OK,Thread Group 1-49,text,true,,282134,509,97,97,https://www.aarong.com/checkout/cart/,2188,0,1157
+1733223693213,132665,Test,,"Number of samples in transaction : 5, number of failing samples : 1",Thread Group 1-49,,false,,1472987,2064,97,97,null,26882,67475,43009
+1733223888357,5748,product,200,OK,Thread Group 1-81,text,true,,321454,554,96,96,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,540,0,0
+1733223889433,4814,product,200,OK,Thread Group 1-4,text,true,,321454,554,96,96,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,592,0,0
+1733223893124,1157,product,200,OK,Thread Group 1-65,text,true,,321455,554,96,96,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,258,0,173
+1733223892881,1446,product,200,OK,Thread Group 1-15,text,true,,321455,554,96,96,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,464,0,172
+1733223889262,5705,product,200,OK,Thread Group 1-73,text,true,,321454,554,96,96,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,638,0,0
+1733223888689,6298,product,200,OK,Thread Group 1-21,text,true,,321456,554,96,96,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,509,0,0
+1733223889019,6917,product,200,OK,Thread Group 1-45,text,true,,321454,554,96,96,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,1007,0,0
+1733223891373,4849,product,200,OK,Thread Group 1-60,text,true,,321454,554,96,96,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,581,0,0
+1733223893251,3457,cart,200,OK,Thread Group 1-40,text,true,,282128,509,96,96,https://www.aarong.com/checkout/cart/,1406,0,179
+1733223692312,136916,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-40,,true,,2144675,2564,96,96,null,11100,67480,964
+1733223894518,2778,product,200,OK,Thread Group 1-28,text,true,,321455,554,95,95,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,464,0,165
+1733223893184,4332,cart,200,OK,Thread Group 1-53,text,true,,282157,509,95,95,https://www.aarong.com/checkout/cart/,993,0,0
+1733223693602,136432,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-53,,true,,2144709,2564,95,95,null,21058,67484,17330
+1733223890844,6933,product,200,OK,Thread Group 1-38,text,true,,321454,554,94,94,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,427,0,0
+1733223895428,2409,cart,200,OK,Thread Group 1-77,text,true,,282119,509,94,94,https://www.aarong.com/checkout/cart/,1260,0,0
+1733223695998,134363,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-77,,true,,2144666,2564,94,94,null,5201,67477,1582
+1733223894711,3172,product,200,OK,Thread Group 1-35,text,true,,321457,554,93,93,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,485,0,189
+1733223891852,6219,product,200,OK,Thread Group 1-63,text,true,,321454,554,93,93,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,507,0,0
+1733223893904,4391,cart,200,OK,Thread Group 1-22,text,true,,282148,509,93,93,https://www.aarong.com/checkout/cart/,1301,0,177
+1733223890079,8216,product,200,OK,Thread Group 1-48,text,true,,321456,554,93,93,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,578,0,0
+1733223690486,140330,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-22,,true,,2144700,2564,93,93,null,4391,67479,650
+1733223893526,4932,product,200,OK,Thread Group 1-26,text,true,,321457,554,92,92,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,417,0,0
+1733223895918,2732,cart,200,OK,Thread Group 1-7,text,true,,282149,509,92,92,https://www.aarong.com/checkout/cart/,977,0,184
+1733223688977,142195,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-7,,true,,2144701,2564,92,92,null,28610,67477,18585
+1733223893620,5241,product,200,OK,Thread Group 1-88,text,true,,321457,554,91,91,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,510,0,0
+1733223894480,4795,product,200,OK,Thread Group 1-71,text,true,,321455,554,91,91,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,429,0,154
+1733223895117,5207,product,200,OK,Thread Group 1-80,text,true,,321455,554,91,91,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,392,0,0
+1733223897654,2794,product,200,OK,Thread Group 1-32,text,true,,321455,554,91,91,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,1473,0,1187
+1733223896581,4582,product,200,OK,Thread Group 1-95,text,true,,321457,554,91,91,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,751,0,468
+1733223894088,7596,product,200,OK,Thread Group 1-52,text,true,,321455,554,91,91,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,497,0,0
+1733223897800,3968,product,200,OK,Thread Group 1-89,text,true,,321455,554,91,91,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,471,0,177
+1733223899466,4400,cart,200,OK,Thread Group 1-97,text,true,,282097,509,91,91,https://www.aarong.com/checkout/cart/,1172,0,179
+1733223697964,138425,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-97,,true,,2144649,2564,91,91,null,4876,67479,647
+1733223897118,6883,cart,200,OK,Thread Group 1-9,text,true,,282134,509,90,90,https://www.aarong.com/checkout/cart/,1282,0,179
+1733223689160,147364,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-9,,true,,2144682,2564,90,90,null,9781,67477,2338
+1733223898138,6110,product,200,OK,Thread Group 1-51,text,true,,321455,554,89,89,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,460,0,182
+1733223900202,4163,product,200,OK,Thread Group 1-29,text,true,,321455,554,89,89,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,384,0,182
+1733223898160,7320,cart,200,OK,Thread Group 1-34,text,true,,282126,509,89,89,https://www.aarong.com/checkout/cart/,1314,0,188
+1733223691715,146286,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-34,,true,,2144674,2564,89,89,null,6197,67479,1949
+1733223896080,10041,product,200,OK,Thread Group 1-98,text,true,,321457,554,88,88,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,465,0,0
+1733223893914,12474,product,200,OK,Thread Group 1-83,text,true,,321455,554,88,88,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,1317,0,0
+1733223898279,8286,cart,200,OK,Thread Group 1-27,text,true,,282083,509,88,88,https://www.aarong.com/checkout/cart/,1217,0,0
+1733223691018,148069,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-27,,true,,2144631,2564,88,88,null,12639,67478,6724
+1733223894429,12193,product,200,OK,Thread Group 1-67,text,true,,321455,554,87,87,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,1184,0,0
+1733223900010,7253,cart,200,OK,Thread Group 1-37,text,true,,282112,509,87,87,https://www.aarong.com/checkout/cart/,1448,0,183
+1733223692013,147772,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-37,,true,,2144664,2564,87,87,null,6825,67478,1229
+1733223901972,5310,cart,200,OK,Thread Group 1-3,text,true,,282058,509,86,86,https://www.aarong.com/checkout/cart/,1413,0,185
+1733223688570,151233,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-3,,true,,2144606,2564,86,86,null,9713,67479,3989
+1733223902923,5001,cart,200,OK,Thread Group 1-76,text,true,,282089,509,85,85,https://www.aarong.com/checkout/cart/,1383,0,182
+1733223695902,144546,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-76,,true,,2144637,2564,85,85,null,4631,67477,947
+1733223897085,11412,product,200,OK,Thread Group 1-84,text,true,,321457,554,84,84,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,362,0,0
+1733223901686,7172,cart,200,OK,Thread Group 1-2,text,true,,282098,509,84,84,https://www.aarong.com/checkout/cart/,1158,0,177
+1733223688474,152878,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-2,,true,,2144650,2564,84,84,null,29630,67507,25301
+1733223901744,8056,cart,200,OK,Thread Group 1-33,text,true,,282125,509,83,83,https://www.aarong.com/checkout/cart/,1155,0,184
+1733223691617,150706,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-33,,true,,2144672,2564,83,83,null,5677,67478,941
+1733223894645,15806,product,200,OK,Thread Group 1-24,text,true,,321455,554,82,82,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,953,0,0
+1733223896074,15001,product,200,OK,Thread Group 1-100,text,true,,321457,554,82,82,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,778,0,0
+1733223900418,11026,cart,200,OK,Thread Group 1-87,text,true,,282126,509,82,82,https://www.aarong.com/checkout/cart/,1118,0,0
+1733223696972,146999,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-87,,true,,2144677,2564,82,82,null,11237,67475,3684
+1733223907352,4700,cart,200,OK,Thread Group 1-18,text,true,,282114,509,81,81,https://www.aarong.com/checkout/cart/,1163,0,181
+1733223690083,154492,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-18,,true,,2144670,2564,81,81,null,10344,67478,2855
+1733223896335,15791,product,200,OK,Thread Group 1-30,text,true,,321455,554,80,80,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,529,0,0
+1733223906206,5948,cart,200,OK,Thread Group 1-78,text,true,,282096,509,80,80,https://www.aarong.com/checkout/cart/,1318,0,184
+1733223696092,148566,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-78,,true,,2144644,2564,80,80,null,6121,67497,1919
+1733223897680,14544,cart,200,OK,Thread Group 1-93,text,true,,282164,509,79,79,https://www.aarong.com/checkout/cart/,1288,0,0
+1733223697566,147184,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-93,,true,,2144714,2564,79,79,null,9179,67475,4260
+1733223896410,16101,product,200,OK,Thread Group 1-47,text,true,,321455,554,78,78,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,1436,0,0
+1733223901220,11398,product,200,OK,Thread Group 1-16,text,true,,321455,554,78,78,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,742,0,0
+1733223897587,15208,product,200,OK,Thread Group 1-92,text,true,,321455,554,78,78,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,391,0,0
+1733223898154,14850,product,200,OK,Thread Group 1-66,text,true,,321457,554,78,78,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,670,0,0
+1733223906399,6718,cart,200,OK,Thread Group 1-69,text,true,,282119,509,78,78,https://www.aarong.com/checkout/cart/,1347,0,189
+1733223695199,150441,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-69,,true,,2144666,2564,78,78,null,21246,67478,17873
+1733223903638,9611,cart,200,OK,Thread Group 1-79,text,true,,282106,509,77,77,https://www.aarong.com/checkout/cart/,1070,0,185
+1733223696191,149582,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-79,,true,,2144654,2564,77,77,null,4452,67478,643
+1733223903988,9363,cart,200,OK,Thread Group 1-82,text,true,,282104,509,76,76,https://www.aarong.com/checkout/cart/,1266,0,182
+1733223696486,149388,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-82,,true,,2144656,2564,76,76,null,8160,67479,2984
+1733223904375,8994,cart,200,OK,Thread Group 1-75,text,true,,282143,509,75,75,https://www.aarong.com/checkout/cart/,2299,0,180
+1733223695802,150095,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-75,,true,,2144699,2564,75,75,null,13833,67473,5788
+1733223899758,14227,product,200,OK,Thread Group 1-91,text,true,,321455,554,74,74,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,592,0,0
+1733223904799,9260,product,200,OK,Thread Group 1-54,text,true,,321455,554,74,74,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,948,0,184
+1733223899924,14221,product,200,OK,Thread Group 1-31,text,true,,321457,554,74,74,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,395,0,0
+1733223901005,13326,product,200,OK,Thread Group 1-6,text,true,,321455,554,74,74,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,474,0,186
+1733223902008,12402,product,200,OK,Thread Group 1-13,text,true,,321457,554,74,74,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,622,0,0
+1733223889237,25363,cart,200,OK,Thread Group 1-41,text,true,,282098,509,74,74,https://www.aarong.com/checkout/cart/,16469,0,15215
+1733223692412,154711,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-41,,true,,2144646,2564,74,74,null,38697,67478,31359
+1733223904977,9753,product,200,OK,Thread Group 1-39,text,true,,321455,554,73,73,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,676,0,479
+1733223899936,14951,product,200,OK,Thread Group 1-90,text,true,,321455,554,73,73,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,707,0,0
+1733223899620,15422,taaga,200,OK,Thread Group 1-14,text,true,,498705,506,73,73,https://www.aarong.com/brand/taaga,800,0,0
+1733223902075,13029,product,200,OK,Thread Group 1-57,text,true,,321455,554,73,73,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,317,0,0
+1733223901894,13227,product,200,OK,Thread Group 1-68,text,true,,321455,554,73,73,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,527,0,0
+1733223903259,11948,cart,200,OK,Thread Group 1-72,text,true,,282120,509,73,73,https://www.aarong.com/checkout/cart/,2151,0,0
+1733223695497,152229,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-72,,true,,2144667,2564,73,73,null,5320,67483,649
+1733223906374,8929,product,200,OK,Thread Group 1-86,text,true,,321457,554,72,72,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,220,0,0
+1733223900925,14668,product,200,OK,Thread Group 1-44,text,true,,321455,554,72,72,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,416,0,0
+1733223898517,17331,product,200,OK,Thread Group 1-20,text,true,,321455,554,72,72,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,1023,0,0
+1733223906924,9128,cart,200,OK,Thread Group 1-61,text,true,,282106,509,72,72,https://www.aarong.com/checkout/cart/,1163,0,183
+1733223694398,154180,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-61,,true,,2144654,2564,72,72,null,29321,67475,20952
+1733223910713,5389,cart,200,OK,Thread Group 1-21,text,true,,282131,509,71,71,https://www.aarong.com/checkout/cart/,1661,0,185
+1733223690400,158225,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-21,,true,,2144685,2564,71,71,null,5376,67476,2433
+1733223906285,9984,product,200,OK,Thread Group 1-12,text,true,,321455,554,70,70,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,782,0,477
+1733223904585,11945,product,200,OK,Thread Group 1-43,text,true,,321455,554,70,70,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,235,0,0
+1733223908696,7889,cart,200,OK,Thread Group 1-70,text,true,,282120,509,70,70,https://www.aarong.com/checkout/cart/,1139,0,184
+1733223695298,153812,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-70,,true,,2144668,2564,70,70,null,23586,67476,21066
+1733223909657,6971,product,200,OK,Thread Group 1-56,text,true,,321455,554,69,69,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,381,0,185
+1733223907295,9588,cart,200,OK,Thread Group 1-10,text,true,,282112,509,69,69,https://www.aarong.com/checkout/cart/,1434,0,477
+1733223689259,160149,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-10,,true,,2144660,2564,69,69,null,25188,67476,17786
+1733223902471,14515,product,200,OK,Thread Group 1-99,text,true,,321455,554,68,68,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,200,0,0
+1733223913503,3567,cart,200,OK,Thread Group 1-38,text,true,,282111,509,68,68,https://www.aarong.com/checkout/cart/,1265,0,180
+1733223692113,157481,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-38,,true,,2144659,2564,68,68,null,28008,67476,21098
+1733223907820,9310,cart,200,OK,Thread Group 1-1,text,true,,282104,509,67,67,https://www.aarong.com/checkout/cart/,1832,0,519
+1733223688372,161150,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-1,,true,,2144652,2564,67,67,null,39791,67608,30223
+1733223909832,7471,cart,200,OK,Thread Group 1-81,text,true,,282120,509,66,66,https://www.aarong.com/checkout/cart/,1550,0,181
+1733223696383,153445,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-81,,true,,2144670,2564,66,66,null,24478,67475,19379
+1733223911662,5832,cart,200,OK,Thread Group 1-45,text,true,,282135,509,65,65,https://www.aarong.com/checkout/cart/,2373,0,1192
+1733223692808,157205,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-45,,true,,2144685,2564,65,65,null,50667,67481,34282
+1733223905366,12565,cart,200,OK,Thread Group 1-94,text,true,,282141,509,64,64,https://www.aarong.com/checkout/cart/,1075,0,0
+1733223697663,152794,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-94,,true,,2144691,2564,64,64,null,7225,67475,1295
+1733223909974,8062,cart,200,OK,Thread Group 1-4,text,true,,282080,509,63,63,https://www.aarong.com/checkout/cart/,2429,0,478
+1733223688661,161895,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-4,,true,,2144632,2564,63,63,null,12443,67480,7895
+1733223906206,11865,cart,200,OK,Thread Group 1-85,text,true,,282136,509,62,62,https://www.aarong.com/checkout/cart/,1165,0,184
+1733223696781,153817,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-85,,true,,2144688,2564,62,62,null,11696,67474,3690
+1733223910053,8219,cart,200,OK,Thread Group 1-15,text,true,,282127,509,61,61,https://www.aarong.com/checkout/cart/,1125,0,0
+1733223689776,161018,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-15,,true,,2144682,2564,61,61,null,20538,67478,17073
+1733223903126,15196,cart,200,OK,Thread Group 1-11,text,true,,282158,509,60,60,https://www.aarong.com/checkout/cart/,1166,0,0
+1733223689386,161460,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-11,,true,,2144708,2564,60,60,null,18844,67476,16234
+1733223900081,18258,cart,200,OK,Thread Group 1-58,text,true,,282060,509,59,59,https://www.aarong.com/checkout/cart/,16351,0,15225
+1733223694099,156764,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-58,,true,,2144616,2564,59,59,null,22985,67477,16656
+1733223907185,11333,cart,200,OK,Thread Group 1-23,text,true,,282128,509,58,58,https://www.aarong.com/checkout/cart/,1767,0,774
+1733223690586,160456,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-23,,true,,2144676,2564,58,58,null,6015,67477,1531
+1733223911949,6666,cart,200,OK,Thread Group 1-60,text,true,,282105,509,57,57,https://www.aarong.com/checkout/cart/,1318,0,175
+1733223694297,156841,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-60,,true,,2144653,2564,57,57,null,10027,67478,6040
+1733223914185,4565,cart,200,OK,Thread Group 1-26,text,true,,282089,509,56,56,https://www.aarong.com/checkout/cart/,1908,0,182
+1733223690921,160351,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-26,,true,,2144646,2564,56,56,null,5225,67477,644
+1733223905160,13803,product,200,OK,Thread Group 1-36,text,true,,321457,554,55,55,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,411,0,0
+1733223906963,12292,cart,200,OK,Thread Group 1-64,text,true,,282126,509,55,55,https://www.aarong.com/checkout/cart/,1400,0,489
+1733223694696,157083,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-64,,true,,2144678,2564,55,55,null,5024,67477,2219
+1733223904210,15225,cart,200,OK,Thread Group 1-19,text,true,,282111,509,54,54,https://www.aarong.com/checkout/cart/,4831,0,2206
+1733223690180,161774,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-19,,true,,2144659,2564,54,54,null,16318,67482,4982
+1733223914586,5027,cart,200,OK,Thread Group 1-88,text,true,,282114,509,53,53,https://www.aarong.com/checkout/cart/,1804,0,189
+1733223697076,155063,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-88,,true,,2144667,2564,53,53,null,32699,67475,2131
+1733223910008,9644,cart,200,OK,Thread Group 1-65,text,true,,282172,509,52,52,https://www.aarong.com/checkout/cart/,1207,0,0
+1733223694801,157375,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-65,,true,,2144723,2564,52,52,null,6757,67476,1950
+1733223914021,5650,cart,200,OK,Thread Group 1-48,text,true,,282127,509,51,51,https://www.aarong.com/checkout/cart/,1631,0,184
+1733223693103,159090,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-48,,true,,2144679,2564,51,51,null,22815,67477,17155
+1733223917411,2296,cart,200,OK,Thread Group 1-52,text,true,,282111,509,50,50,https://www.aarong.com/checkout/cart/,939,0,179
+1733223693506,158722,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-52,,true,,2144661,2564,50,50,null,9472,67479,1713
+1733223913798,5920,cart,200,OK,Thread Group 1-63,text,true,,282120,509,49,49,https://www.aarong.com/checkout/cart/,1990,0,478
+1733223694596,157644,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-63,,true,,2144671,2564,49,49,null,36681,67478,1527
+1733223908387,11603,cart,200,OK,Thread Group 1-62,text,true,,282122,509,48,48,https://www.aarong.com/checkout/cart/,2435,0,778
+1733223694501,158016,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-62,,true,,2144674,2564,48,48,null,9806,67475,3438
+1733223901535,18479,cart,200,OK,Thread Group 1-50,text,true,,282126,509,47,47,https://www.aarong.com/checkout/cart/,1388,0,0
+1733223693300,159237,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-50,,true,,2144676,2564,47,47,null,9724,67478,2554
+1733223913608,6502,cart,200,OK,Thread Group 1-35,text,true,,282107,509,46,46,https://www.aarong.com/checkout/cart/,1554,0,0
+1733223691815,160818,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-35,,true,,2144660,2564,46,46,null,5614,67476,1122
+1733223916452,3714,product,200,OK,Thread Group 1-96,text,true,,321455,554,45,45,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,475,0,177
+1733223908507,11660,cart,200,OK,Thread Group 1-59,text,true,,282204,509,45,45,https://www.aarong.com/checkout/cart/,1160,0,0
+1733223694199,158492,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-59,,true,,2144754,2564,45,45,null,23160,67478,12757
+1733223916051,4185,cart,200,OK,Thread Group 1-80,text,true,,282128,509,44,44,https://www.aarong.com/checkout/cart/,1698,0,480
+1733223696287,156473,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-80,,true,,2144681,2564,44,44,null,6040,67477,1425
+1733223916173,4712,cart,200,OK,Thread Group 1-32,text,true,,282156,509,43,43,https://www.aarong.com/checkout/cart/,1010,0,0
+1733223691516,161889,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-32,,true,,2144705,2564,43,43,null,5409,67479,1952
+1733223913021,8210,cart,200,OK,Thread Group 1-28,text,true,,282126,509,42,42,https://www.aarong.com/checkout/cart/,1174,0,0
+1733223691121,162633,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-28,,true,,2144681,2564,42,42,null,24040,67476,17923
+1733223910694,10574,cart,200,OK,Thread Group 1-73,text,true,,282120,509,41,41,https://www.aarong.com/checkout/cart/,6514,0,5236
+1733223695599,158186,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-73,,true,,2144672,2564,41,41,null,18682,67484,6910
+1733223905073,16338,product,200,OK,Thread Group 1-74,text,true,,321455,554,40,40,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,15257,0,15173
+1733223915001,6417,cart,200,OK,Thread Group 1-71,text,true,,282135,509,40,40,https://www.aarong.com/checkout/cart/,1059,0,0
+1733223695398,158542,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-71,,true,,2144690,2564,40,40,null,13048,67479,3403
+1733223917022,4537,product,200,OK,Thread Group 1-5,text,true,,321455,554,39,39,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,935,0,0
+1733223916890,4676,cart,200,OK,Thread Group 1-95,text,true,,282145,509,39,39,https://www.aarong.com/checkout/cart/,1522,0,0
+1733223697764,156324,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-95,,true,,2144702,2564,39,39,null,20750,67479,17675
+1733223919004,2671,product,200,OK,Thread Group 1-17,text,true,,321455,554,38,38,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,317,0,0
+1733223917493,4588,cart,200,OK,Thread Group 1-89,text,true,,282120,509,38,38,https://www.aarong.com/checkout/cart/,1264,0,0
+1733223697170,157438,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-89,,true,,2144670,2564,38,38,null,7142,67474,2130
+1733223919973,2531,cart,200,OK,Thread Group 1-51,text,true,,282150,509,37,37,https://www.aarong.com/checkout/cart/,1063,0,0
+1733223693401,161622,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-51,,true,,2144699,2564,37,37,null,43814,67482,39641
+1733223920091,2464,cart,200,OK,Thread Group 1-29,text,true,,282112,509,36,36,https://www.aarong.com/checkout/cart/,1078,0,0
+1733223691217,163857,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-29,,true,,2144661,2564,36,36,null,33244,67482,16871
+1733223921845,1395,cart,200,OK,Thread Group 1-98,text,true,,282142,509,35,35,https://www.aarong.com/checkout/cart/,1111,0,113
+1733223698063,157702,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-98,,true,,2144695,2564,35,35,null,20558,67477,15790
+1733223922112,1156,cart,200,OK,Thread Group 1-83,text,true,,282112,509,34,34,https://www.aarong.com/checkout/cart/,997,0,109
+1733223696580,159215,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-83,,true,,2144661,2564,34,34,null,24372,67475,17817
+1733223922346,1177,cart,200,OK,Thread Group 1-67,text,true,,282111,509,33,33,https://www.aarong.com/checkout/cart/,1019,0,114
+1733223694994,161055,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-67,,true,,2144662,2564,33,33,null,5192,67476,1935
+1733223924222,1039,cart,200,OK,Thread Group 1-84,text,true,,282141,509,32,32,https://www.aarong.com/checkout/cart/,879,0,111
+1733223696678,161104,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-84,,true,,2144694,2564,32,32,null,5436,67482,1577
+1733223926176,1268,cart,200,OK,Thread Group 1-24,text,true,,282098,509,31,31,https://www.aarong.com/checkout/cart/,1095,0,125
+1733223690689,169275,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-24,,true,,2144646,2564,31,31,null,9939,67481,1584
+1733223926800,1183,cart,200,OK,Thread Group 1-100,text,true,,282141,509,30,30,https://www.aarong.com/checkout/cart/,1024,0,125
+1733223698261,162243,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-100,,true,,2144694,2564,30,30,null,25248,67480,15728
+1733223927851,1031,cart,200,OK,Thread Group 1-30,text,true,,282126,509,29,29,https://www.aarong.com/checkout/cart/,871,0,114
+1733223691317,170090,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-30,,true,,2144675,2564,29,29,null,19552,67476,17130
+1733223928235,1368,cart,200,OK,Thread Group 1-47,text,true,,282118,509,28,28,https://www.aarong.com/checkout/cart/,1208,0,114
+1733223693003,169126,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-47,,true,,2144669,2564,28,28,null,28483,67475,13553
+1733223928519,1284,cart,200,OK,Thread Group 1-92,text,true,,282135,509,27,27,https://www.aarong.com/checkout/cart/,1127,0,126
+1733223697467,164861,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-92,,true,,2144686,2564,27,27,null,29905,67477,22321
+1733223928729,1285,cart,200,OK,Thread Group 1-66,text,true,,282098,509,26,26,https://www.aarong.com/checkout/cart/,1097,0,123
+1733223694895,167638,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-66,,true,,2144650,2564,26,26,null,23466,67484,17085
+1733223928343,2415,cart,200,OK,Thread Group 1-16,text,true,,282120,509,25,25,https://www.aarong.com/checkout/cart/,906,0,0
+1733223689880,173400,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-16,,true,,2144668,2564,25,25,null,5284,67478,1001
+1733223929713,1184,cart,200,OK,Thread Group 1-91,text,true,,282104,509,24,24,https://www.aarong.com/checkout/cart/,1023,0,109
+1733223697367,166051,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-91,,true,,2144654,2564,24,24,null,12500,67479,6528
+1733223930136,1319,cart,200,OK,Thread Group 1-13,text,true,,282111,509,23,23,https://www.aarong.com/checkout/cart/,937,0,106
+1733223689583,174398,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-13,,true,,2144666,2564,23,23,null,29582,67473,17195
+1733223929871,1593,cart,200,OK,Thread Group 1-31,text,true,,282136,509,22,22,https://www.aarong.com/checkout/cart/,1186,0,125
+1733223691417,172572,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-31,,true,,2144689,2564,22,22,null,23307,67474,16014
+1733223930847,1002,cart,200,OK,Thread Group 1-68,text,true,,282141,509,21,21,https://www.aarong.com/checkout/cart/,845,0,111
+1733223695102,169271,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-68,,true,,2144691,2564,21,21,null,20019,67477,17126
+1733223930830,1361,cart,200,OK,Thread Group 1-57,text,true,,282133,509,20,20,https://www.aarong.com/checkout/cart/,1038,0,111
+1733223694000,170717,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-57,,true,,2144682,2564,20,20,null,10631,67475,7018
+1733223745938,186451,women,200,OK,Thread Group 1-55,text,true,,674453,500,19,19,https://www.aarong.com/women,1244,0,0
+1733223931321,1461,cart,200,OK,Thread Group 1-44,text,true,,282059,509,19,19,https://www.aarong.com/checkout/cart/,1095,0,148
+1733223692705,172599,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-44,,true,,2144610,2564,19,19,null,6781,67477,3279
+1733223930613,2430,cart,200,OK,Thread Group 1-90,text,true,,282113,509,18,18,https://www.aarong.com/checkout/cart/,1986,0,114
+1733223697270,168298,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-90,,true,,2144664,2564,18,18,null,38020,67475,33124
+1733223931030,2408,cart,200,OK,Thread Group 1-86,text,true,,282188,509,17,17,https://www.aarong.com/checkout/cart/,1047,0,0
+1733223696875,169077,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-86,,true,,2144741,2564,17,17,null,14022,67487,2907
+1733223931574,1904,cart,200,OK,Thread Group 1-20,text,true,,282111,509,16,16,https://www.aarong.com/checkout/cart/,1578,0,119
+1733223690286,175714,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-20,,true,,2144662,2564,16,16,null,13173,67478,2744
+1733223932712,1237,cart,200,OK,Thread Group 1-99,text,true,,282122,509,15,15,https://www.aarong.com/checkout/cart/,980,0,112
+1733223698162,168311,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-99,,true,,2144673,2564,15,15,null,21224,67477,18518
+1733223930057,4016,cart,200,OK,Thread Group 1-6,text,true,,282135,509,14,14,https://www.aarong.com/checkout/cart/,1278,0,0
+1733223688858,177734,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-6,,true,,2144686,2564,14,14,null,9284,67481,2650
+1733223929785,4384,cart,200,OK,Thread Group 1-54,text,true,,282150,509,13,13,https://www.aarong.com/checkout/cart/,1140,0,0
+1733223693702,172992,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-54,,true,,2144699,2564,13,13,null,11323,67475,1606
+1733223930456,3849,cart,200,OK,Thread Group 1-39,text,true,,282119,509,12,12,https://www.aarong.com/checkout/cart/,1736,0,0
+1733223692214,174612,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-39,,true,,2144668,2564,12,12,null,9326,67479,6107
+1733223931995,3089,cart,200,OK,Thread Group 1-12,text,true,,282111,509,11,11,https://www.aarong.com/checkout/cart/,1108,0,0
+1733223689459,178141,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-12,,true,,2144664,2564,11,11,null,8520,67483,4338
+1733223932256,2842,cart,200,OK,Thread Group 1-43,text,true,,282096,509,10,10,https://www.aarong.com/checkout/cart/,1384,0,0
+1733223692608,175012,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-43,,true,,2144645,2564,10,10,null,7308,67478,1563
+1733223932354,2775,cart,200,OK,Thread Group 1-56,text,true,,282104,509,9,9,https://www.aarong.com/checkout/cart/,1129,0,0
+1733223693902,173752,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-56,,true,,2144659,2564,9,9,null,43594,67475,40521
+1733223934690,2817,cart,200,OK,Thread Group 1-36,text,true,,282160,509,8,8,https://www.aarong.com/checkout/cart/,1142,0,0
+1733223691918,178105,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-36,,true,,2144713,2564,8,8,null,5374,67484,2896
+1733223935892,1872,cart,200,OK,Thread Group 1-96,text,true,,282121,509,7,7,https://www.aarong.com/checkout/cart/,780,0,0
+1733223697865,172421,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-96,,true,,2144670,2564,7,7,null,64777,67478,49900
+1733223937139,1729,cart,200,OK,Thread Group 1-74,text,true,,282058,509,6,6,https://www.aarong.com/checkout/cart/,1075,0,0
+1733223695701,175689,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-74,,true,,2144607,2564,6,6,null,19987,67478,16287
+1733223937402,1856,cart,200,OK,Thread Group 1-17,text,true,,282113,509,5,5,https://www.aarong.com/checkout/cart/,1177,0,0
+1733223689994,181784,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-17,,true,,2144663,2564,5,5,null,24209,67480,21475
+1733223937286,2080,cart,200,OK,Thread Group 1-5,text,true,,282060,509,4,4,https://www.aarong.com/checkout/cart/,1408,0,0
+1733223688761,183123,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-5,,true,,2144615,2564,4,4,null,12441,67482,5008
+1733223942967,349,product,200,OK,Thread Group 1-14,text,true,,321454,554,3,3,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,187,0,127
+1733223943679,406,taaga,200,OK,Thread Group 1-55,text,true,,498704,506,3,3,https://www.aarong.com/brand/taaga,188,0,123
+1733223959042,1048,cart,200,OK,Thread Group 1-14,text,true,,282149,509,3,3,https://www.aarong.com/checkout/cart/,984,0,0
+1733223689668,202946,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-14,,true,,2144701,2564,3,3,null,3797,67480,1289
+1733223972010,117,product,200,OK,Thread Group 1-55,text,true,,321454,554,2,2,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,64,0,0
+1733223987853,707,cart,200,OK,Thread Group 1-55,text,true,,282151,509,2,2,https://www.aarong.com/checkout/cart/,688,0,0
+1733223693803,227279,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-55,,true,,2144700,2564,2,2,null,6034,67480,1495
+1733223703348,318589,home,200,OK,Thread Group 1-25,text,true,,367938,495,1,1,https://www.aarong.com/,769,0,675
+1733224021942,579,women,200,OK,Thread Group 1-25,text,true,,674455,500,1,1,https://www.aarong.com/women,176,0,113
+1733224033812,630,taaga,200,OK,Thread Group 1-25,text,true,,498705,506,1,1,https://www.aarong.com/brand/taaga,247,0,0
+1733224062366,131,product,200,OK,Thread Group 1-25,text,true,,321458,554,1,1,https://www.aarong.com/white-knitted-acrylic-fabric-taaga-scarf-0410000110304.html,60,0,0
+1733224078222,1067,cart,200,OK,Thread Group 1-25,text,true,,282152,509,1,1,https://www.aarong.com/checkout/cart/,1012,0,0
+1733223690812,320996,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-25,,true,,2144708,2564,1,1,null,2264,67480,788
